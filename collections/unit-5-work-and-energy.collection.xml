@@ -1,74 +1,23 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Albert Hall">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11946</md:content-id>
-  <md:title>Unit 5 - Work and Energy</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>26511704-fbca-42cb-a2bd-5d59d4b98aa9</md:uuid>
-<md:slug>unit-5-work-and-energy</md:slug>
-</metadata>
-
+    <md:content-id>col11946</md:content-id>
+    <md:title>Unit 5 - Work and Energy</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>26511704-fbca-42cb-a2bd-5d59d4b98aa9</md:uuid>
+    <md:slug>unit-5-work-and-energy</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m59219"/>
-        
-      
-    
-    
-      <col:module document="m59220"/>
-        
-      
-    
-    
-      <col:module document="m59221"/>
-        
-      
-    
-    
-      <col:module document="m59222"/>
-        
-      
-    
-    
-      <col:module document="m59223"/>
-        
-      
-    
-    
-      <col:module document="m59224"/>
-        
-      
-    
-    
-      <col:module document="m59225"/>
-        
-      
-    
-    
-      <col:module document="m59226"/>
-        
-      
-    
-    
-      <col:module document="m59227"/>
-        
-      
-    
-    
-      <col:module document="m59228"/>
-        
-      
-    
+    <col:module document="m59219"/>
+    <col:module document="m59220"/>
+    <col:module document="m59221"/>
+    <col:module document="m59222"/>
+    <col:module document="m59223"/>
+    <col:module document="m59224"/>
+    <col:module document="m59225"/>
+    <col:module document="m59226"/>
+    <col:module document="m59227"/>
+    <col:module document="m59228"/>
   </col:content>
 </col:collection>
